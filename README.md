@@ -1,7 +1,7 @@
 # 판다코리아 모바일웹  
 ---
   
-##Description  
-* **[판다코리아 모바일웹](http://www.pandakorea.com/wapV02/)** 웹에 적용된 ui 관련 스크립트 입니다.
+## Description  
+* **[판다코리아 모바일웹](http://www.pandakorea.com/wapV02/)** 에 적용된 ui 관련 스크립트 입니다.
 * jQuery 객체에 메서드를 플러그인 형태로 추가한 것이며, 관련 페이지에서 해당 메서드를 호출합니다.(호출 부분 생략)
 
